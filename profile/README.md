@@ -1,4 +1,4 @@
-<p align="center"><a href="https://falak.sh"><img src="https://falak.sh/icon-192.png" width="72" alt="Falak"></a></p>
+<p align="center"><a href="https://falak.sh"><img src="https://avatars.githubusercontent.com/u/345052894?s=200&v=4" width="72" alt="Falak"></a></p>
 
 <h3 align="center">Falak — self-hosted deployments, servers and observability</h3>
 
