@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or idea
+    url: https://github.com/falak-sh/falak/discussions
+    about: Ask and discuss in GitHub Discussions.
+  - name: Security vulnerability
+    url: https://github.com/falak-sh/falak/security/advisories/new
+    about: Report privately — never in a public issue.

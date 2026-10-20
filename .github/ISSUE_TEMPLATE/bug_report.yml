@@ -1,0 +1,21 @@
+name: Bug report
+description: Something is broken
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes: { label: What happened?, description: What you did, what you expected, what you saw. }
+    validations: { required: true }
+  - type: textarea
+    id: repro
+    attributes: { label: Steps to reproduce }
+  - type: input
+    id: version
+    attributes: { label: Falak version, placeholder: "v0.25.1 (falak-ctl status)" }
+    validations: { required: true }
+  - type: input
+    id: os
+    attributes: { label: Server OS, placeholder: Ubuntu 24.04 }
+  - type: textarea
+    id: logs
+    attributes: { label: Logs, description: "Relevant output. Remove secrets first.", render: shell }
